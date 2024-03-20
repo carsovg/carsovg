@@ -1,5 +1,7 @@
 ## Hi there 👋
-###Soy Oscar, de regreso al desarrollo.
+###**Soy Oscar, de regreso al desarrollo.**
+
+Mi nombre es **Oscar** y recientemente he retomado el interes por el camino del desarrollo de software después de trabajar en una área tecnológica distinta.
 
 <!--
 **carsovg/carsovg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
